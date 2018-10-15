@@ -1,0 +1,43 @@
+.main {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+}
+.sec {
+    margin: 5px;
+    height: 80vh;
+    padding: 2px;
+    width: 26%;
+    min-width: 250px;
+}
+.black {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-weight: bold;
+    color: white;
+    height: 14vh;
+    font-size: 30px;
+    background-color: black;
+}
+.green {
+    background-color: #28a745;
+}
+.off {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: black;
+    height: 14vh;
+    font-size: 23px;
+    background-color: #eeeeee;
+}
+p { 
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: black;
+    height: 6vh;
+    font-size: 1em;
+}

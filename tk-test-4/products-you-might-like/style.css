@@ -1,0 +1,40 @@
+.main {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+}
+.sec {
+    padding: 5px;
+    width: 20%;
+    margin: 5px;
+    border-radius: 3px;
+    min-width: 200px;
+    border: 1px solid #00000000;
+}
+.sec:hover {
+    cursor: pointer;
+    border: 1px solid gray;
+}
+p {
+    border-bottom: 1px solid gray;
+    padding: 5px 0px;
+    margin: 0px 3px;  
+    color: gray;
+}
+span {
+    display: block;
+    margin: 0px; 
+    font-size: 14px;
+    padding: 0px;
+    color: gray;
+}
+h1 {
+    text-align: center;
+    padding: 10px;
+}
+h6 {
+    padding: 1px;
+    margin: 0px;
+    font-weight: bold;
+}

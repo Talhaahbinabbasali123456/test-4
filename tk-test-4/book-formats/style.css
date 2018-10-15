@@ -1,0 +1,44 @@
+.main {
+    height: 50vh;
+    display: flex;
+    padding: 40px 0px;
+    justify-content: center;
+    flex-wrap: wrap!important;
+}
+.inner-div {
+    width: 13%;
+    min-width: 150px;
+    margin: 6px;
+}
+.insight {
+    border: 1px solid black;
+    display: flex;
+    justify-content: flex-start;
+    flex-direction: column;
+    padding: 5px;
+    border-radius: 4px;
+    
+}
+.ora {
+    border: 1px solid orange; 
+}
+span {
+    color: red;
+}
+.in-p {
+    margin: 0px;
+    padding: 1px 3px;
+    font-weight: bold;
+}
+.below {
+    color: #0c66c0;
+    font-size: 14px;
+    font-weight: bold;
+    padding: 1px 0px;
+}
+.gray {
+    color: gray;
+}
+i {
+     color: orange;
+}
